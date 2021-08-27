@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\bin\Debug\netcoreapp3.1\CardDetails.Data.deps.json
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\bin\Debug\netcoreapp3.1\CardDetails.Data.runtimeconfig.json
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\bin\Debug\netcoreapp3.1\CardDetails.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\bin\Debug\netcoreapp3.1\CardDetails.Data.dll
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\bin\Debug\netcoreapp3.1\CardDetails.Data.pdb
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.dll
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.pdb
+C:\Users\hp\source\repos\CardDetails\CardDetails.Data\obj\Debug\netcoreapp3.1\CardDetails.Data.genruntimeconfig.cache
