@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CardDetails",
+    "\\CardDetails\\CardDetails.Core",
+    "\\CardDetails\\CardDetails.Core\\Controllers"
   ],
+  "SelectedNode": "\\CardDetails\\CardDetails.Core\\Controllers\\CardDetailsController.cs",
   "PreviewInSolutionExplorer": false
 }

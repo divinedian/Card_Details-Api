@@ -1,13 +1,8 @@
 ﻿using AutoMapper;
-using CardDetails.Core.Core.Application.Commands;
 using CardDetails.Core.Core.Application.Queries;
 using CardDetails.Core.Core.Services;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -32,12 +27,7 @@ namespace CardDetails.Core.Controllers
 
         [HttpGet]
         public async Task<IActionResult> GetCard([FromQuery] GetCardDetailsQuery BinObject)
-         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-
+        {
             var CardDetail = await _mediator.Send(BinObject);
             if (CardDetail == null) return BadRequest("Bin is invalid");
             return Ok(CardDetail);
