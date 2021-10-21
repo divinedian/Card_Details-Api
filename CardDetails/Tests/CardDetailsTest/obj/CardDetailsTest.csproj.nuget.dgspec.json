@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj": {
+    "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj",
         "projectName": "CardDetails.Core",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj"
+              "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj"
               }
             }
           }
@@ -122,18 +122,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj": {
+    "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj",
         "projectName": "CardDetails.Data",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\CardDetails.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -213,18 +213,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj": {
+    "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj",
         "projectName": "CardDetailsTest",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\CardDetailsTest.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\Tests\\CardDetailsTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -246,8 +246,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj": {
-                "projectPath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj"
+              "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj"
               }
             }
           }
@@ -314,7 +314,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

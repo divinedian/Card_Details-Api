@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U6lol9S6PgBIpE3X3LdRAS9l6BPCQqsqb1SQm7Ihbq9hObNsDCkBGVqhcVK4ELqlSa9Qlz9KeScjtd3+DMqWvw==",
+  "dgSpecHash": "kaej5JEdbRCEf54v5oy8RMt7wvLgA3yN9SILV4bflDT6KZ+WBnZg7qlLo6D+IH32f27kHQItz5hcRm3ZF1YG/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Card_Details-Api\\CardDetails\\CardDetails.Core\\CardDetails.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
